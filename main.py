@@ -5,7 +5,7 @@ def main():
     # print('Hello World')
     ##############################
     print('Hello World')
-    print('Pythong Programming')
+    print('Python Programming')
 
 
 if __name__ == '__main__':
